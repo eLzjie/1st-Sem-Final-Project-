@@ -1,4 +1,5 @@
 MY DAY: ALL IN ONE ORGANIZER APP
+
 • First Year - First Semester Final Project
 Python | Tkinter | API
 
