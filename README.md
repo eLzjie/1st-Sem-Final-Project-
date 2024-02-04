@@ -7,6 +7,7 @@ Python | Tkinter | API
 
 
 Features: 
+
 • Task Management
 
     Enhance productivity by providing users with an efficient To-Do List feature that allows them to manage and organize their daily tasks seamlessly.
